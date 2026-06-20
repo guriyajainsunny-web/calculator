@@ -82,3 +82,10 @@ button:hover{
 .delete{
     background:#6c757d;
 }
+
+.title{
+    text-align: center;
+    color: purple;
+    font-family: algerian;
+    font-size: 65px;
+}
